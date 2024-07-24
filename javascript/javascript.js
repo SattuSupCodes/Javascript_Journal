@@ -12,4 +12,7 @@ let Quantity = 0;
 
 //booleans
 
-console.log(5>8)
+console.log(5>8) //false
+
+
+
