@@ -5,4 +5,6 @@ function yolo(){
     document.write("\n")
     document.write(a+b)
 
+
+
 }
