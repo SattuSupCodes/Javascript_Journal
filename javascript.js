@@ -8,3 +8,4 @@ console.log("whatchu lookin at? Nothin to see here")
 let a = 5
 let b = 6
 console.log(a+b)
+let Quantity = 0;
