@@ -6,3 +6,13 @@ const products = {
 
 console.log(products)
 console.log(products.name)
+console.log(products.price)
+
+//we can change values 
+
+products.name = "Skirts"
+products.price = 2000
+
+console.log(products)
+console.log(products.name)
+console.log(products.price)
