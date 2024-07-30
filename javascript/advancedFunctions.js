@@ -6,7 +6,7 @@ hello();
 
 //functions as values
 
-const function1 = function hello(){
+const function1 = function(){
     console.log("This is patrick")
-};
+}; //anonymous function: one without a name
 console.log(typeof function1)
