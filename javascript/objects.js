@@ -16,3 +16,4 @@ products.price = 2000
 console.log(products)
 console.log(products.name)
 console.log(products.price)
+// console toh koi mujhe kardo mujhe rona aati 
